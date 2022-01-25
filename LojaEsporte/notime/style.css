@@ -1,0 +1,604 @@
+﻿/* CONFIGURAÇÕES GERAIS */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --transition-speed: 300ms ease;
+    --cor-base: #CB0D2F;
+    --cor-claro: #E52246;
+    --cor-escuro: #990621;
+    --cor-suporte: #464646;
+    --cor-suporte-escuro: #322E2E;
+    --bg-branco: white;
+    --bg-cinza: #EBEBEB;
+    --bg-escuro: #1D1B1B;
+    --maxwidth: 1100px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    list-style: none;
+}
+
+/* BARRA DE INFORMAÇÕES */
+.bg-info {
+    background: var(--cor-escuro);
+}
+
+.info {
+    max-width: var(--maxwidth);
+    margin: 0 auto;
+    color: white;
+    padding: 8px 30px;
+}
+
+    .info p {
+        font-size: 0.75em;
+        opacity: 0.7;
+    }
+
+/* CABEÇALHO */
+
+header {
+    background: var(--cor-base);
+}
+
+.navbar {
+    max-width: var(--maxwidth);
+    margin: 0 auto;
+    display: flex;
+    padding: 5px 30px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    .navbar svg {
+        width: 2rem;
+        min-width: 2rem;
+        filter: white;
+    }
+/* Feito por Paulo Gustavo */
+
+.navbar-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .navbar-menu a + a {
+        margin-left: 64px;
+    }
+
+.logo svg {
+    width: 100%;
+}
+
+.navbar-items {
+    display: flex;
+    align-items: center;
+}
+
+    .navbar-items p {
+        margin-left: 10px;
+    }
+
+.barra-pesquisa {
+    width: 40%;
+}
+
+    .barra-pesquisa input {
+        border: none;
+        outline: none;
+        width: 100%;
+        padding: 10px;
+        border-radius: 3px;
+    }
+
+    .barra-pesquisa svg {
+        width: 2rem;
+        min-width: 2rem;
+        margin: 0 1.5rem;
+    }
+
+@media screen and (max-width: 700px) {
+    .barra-pesquisa {
+        display: none;
+    }
+}
+
+/* MENU DE OPÇÕES */
+
+.menu {
+    max-width: var(--maxwidth);
+    margin: 0 auto;
+    background: white;
+}
+
+.menu-items {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+    .menu-items a {
+        display: block;
+        font-size: 14px;
+        padding: 15px;
+        font-weight: bold;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #322E2E;
+        transition: var(--transition-speed);
+    }
+
+        .menu-items a:hover {
+            color: var(--cor-claro);
+        }
+
+@media screen and (max-width: 643px) {
+    .menu-items a {
+        padding: 15px;
+    }
+}
+
+/* INTRODUÇÃO */
+
+.bg-intro {
+    background-image: url("img/fundo/bg-introducao.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.introducao {
+    max-width: var(--maxwidth);
+    margin: 0 auto;
+    padding: 64px 30px 128px 30px;
+    color: #211212;
+}
+
+    .introducao h1 {
+        text-transform: uppercase;
+        font-weight: black;
+        font-size: 48px;
+    }
+
+        .introducao h1::after {
+            content: '';
+            display: block;
+            width: 100px;
+            height: 6px;
+            background: #211212;
+        }
+
+        .introducao h1 span {
+            display: block;
+            font-size: 90px;
+        }
+
+    .introducao p {
+        padding: 40px 0 100px 0;
+        font-size: 1.125em;
+        max-width: 400px;
+        line-height: 27px;
+    }
+
+    .introducao button {
+        width: 180px;
+        height: 50px;
+        border: none;
+    }
+
+    .introducao a {
+        font-size: 1.125em;
+        text-transform: uppercase;
+        font-weight: bold;
+        background: var(--cor-claro);
+        padding: 15px 35px;
+        border: none;
+        color: white;
+    }
+
+.intro-2 {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .introducao {
+        text-align: center;
+        background-image: url("img/fundo/bg-introducao-mobile.png");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        color: white;
+    }
+
+        .introducao h1::after {
+            margin: 0 auto;
+            background: white;
+        }
+
+        .introducao h1, span, p {
+            margin: 0 auto;
+        }
+
+    .intro-1 {
+        display: none;
+    }
+
+    .intro-2 {
+        display: block;
+    }
+}
+
+/* TÍTULO DA SEÇÃO */
+.secao {
+    padding: 64px 0;
+}
+
+.titulo-secao {
+    color: var(--cor-suporte-escuro);
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    text-align: center;
+}
+
+    .titulo-secao::after {
+        content: '';
+        display: block;
+        width: 80px;
+        height: 4px;
+        background: var(--cor-suporte-escuro);
+        margin: 5px auto;
+    }
+
+/* VESTUÁRIO */
+.bg-vestuario {
+    background: var(--bg-cinza);
+}
+
+/* ANÚNCIO */
+
+.bg-anuncio {
+    background-color: var(--cor-claro);
+}
+
+.anuncio {
+    max-width: var(--maxwidth);
+    margin: 0 auto;
+    padding: 30px;
+}
+
+    .anuncio img {
+        max-width: 100%;
+    }
+
+.anuncio-2 {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .anuncio-1 {
+        display: none;
+    }
+
+    .anuncio-2 {
+        display: block;
+        border: 10px solid var(--bg-escuro);
+    }
+}
+/* Feito por Paulo Gustavo */
+/* A PARTE DOS PRODUTOS */
+.photo-grid {
+    max-width: var(--maxwidth);
+    padding: 30px;
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-auto-rows: 240px;
+}
+
+@media screen and (min-width: 600px) {
+    .card-tall {
+        grid-row: span 2 / auto;
+    }
+
+    .card-wide {
+        grid-column: span 2 / auto;
+    }
+}
+
+@media screen and (max-width: 692px) {
+    .salve {
+        order: -1
+    }
+}
+/* DESCRIÇÃO PARA ITENS DE TAMANHO NORMAL */
+
+.descricao {
+    color: white;
+    padding: 15px;
+}
+
+    .descricao h2 {
+        font-weight: 400;
+        font-size: 1.5rem;
+    }
+
+    .descricao p {
+        font-size: 1.125Rem;
+        font-weight: bold;
+    }
+
+    .descricao span {
+        display: block;
+        margin-top: 15px;
+        font-size: .75rem;
+    }
+
+/* DESCRIÇÃO DE OFERTA PARA ITENS TALL (QUE OCUPAM DUAS LINHAS) */
+.descricao-tall {
+    padding: 30px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+    .descricao-tall h2 {
+        font-size: 1.5rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+
+    .descricao-tall p {
+        display: block;
+        font-size: 0.75rem;
+    }
+
+    .descricao-tall span {
+        display: block;
+        font-size: 1.5rem;
+        font-weight: bolder;
+        margin-bottom: 1rem;
+    }
+
+    .descricao-tall a {
+        display: block;
+        margin: 0 auto;
+        width: 120px;
+        padding: 10px 20px;
+        background: var(--cor-claro);
+    }
+
+        .descricao-tall a p {
+            margin: 0 auto;
+            font-size: 1.125rem;
+            font-weight: bold;
+            color: white;
+        }
+
+@media screen and (max-width: 600px) {
+    .descricao-tall {
+        margin-top: 0px;
+    }
+
+        .descricao-tall span {
+            margin-bottom: .2rem;
+        }
+
+        .descricao-tall h2 {
+            margin-bottom: 1rem;
+        }
+}
+/* Feito por Paulo Gustavo */
+/* SOBRE NÓS */
+.sobre-nos {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+    grid-gap: 30px;
+    max-width: var(--maxwidth);
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.bg-sobre-nos {
+    padding: 32px 0;
+}
+
+.background-sn {
+    padding: 74px 0;
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 400px;
+    background: var(--bg-cinza);
+}
+
+#sobrenos {
+    margin-top: 32px;
+}
+
+.lado-esquerdo p {
+    max-width: 470px;
+    font-size: 1.125em;
+    line-height: 27px;
+    color: var(--cor-suporte);
+}
+
+.lado-esquerdo svg {
+    margin: 20px 0;
+}
+
+.imagem {
+    max-width: 400px;
+    margin: 0 auto;
+    height: 550px;
+    box-shadow: 15px 15px 0px var(--cor-claro);
+    background: url("img/outros/quem-somos.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+@media screen and (max-width: 764px) {
+
+    .lado-esquerdo, .lado-esquerdo img, .lado-esquerdo p, .imagem {
+        margin: 0 auto;
+    }
+
+    .imagem {
+        margin-top: 32px;
+        height: 500px;
+    }
+}
+
+/* CONTATO */
+.contato {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+    max-width: var(--maxwidth);
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.titulo-contato {
+    color: var(--cor-claro);
+    text-align: center;
+    margin-bottom: 64px;
+}
+
+    .titulo-contato::after {
+        content: '';
+        display: block;
+        width: 80px;
+        height: 3px;
+        background: var(--cor-claro);
+        margin: 5px auto;
+    }
+
+.form div + div {
+    margin-top: 1.5em;
+}
+
+.form input {
+    height: 3em;
+}
+
+.form textarea {
+    vertical-align: top;
+    height: 10em;
+    resize: vertical;
+}
+
+.form input, textarea {
+    width: 80%;
+    padding: 10px;
+    border: none;
+    background: var(--bg-cinza);
+}
+
+    .form input:focus, textarea:focus {
+        border: 2px solid var(--cor-claro);
+        outline: none;
+    }
+
+.form label {
+    display: block;
+    font-weight: bold;
+    color: var(--cor-suporte-escuro);
+    width: 60px;
+    margin-bottom: 5px;
+}
+
+.form button {
+    border: none;
+}
+
+.form button {
+    margin-top: 15px;
+    font-size: 1.125em;
+    text-transform: uppercase;
+    font-weight: bold;
+    background: var(--cor-claro);
+    padding: 14px 25px;
+    border: none;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.dados-contato {
+    padding-left: 15%;
+    border-left: 2px solid var(--bg-cinza)
+}
+
+    .dados-contato h3 {
+        font-size: 1.125em;
+        margin-bottom: .5em;
+        color: var(--cor-suporte-escuro)
+    }
+
+    .dados-contato p {
+        font-size: .875em;
+        display: block;
+        margin-bottom: .3em;
+        color: var(--cor-suporte)
+    }
+
+    .dados-contato div:first-child {
+        padding: 0 0 30px 0;
+    }
+
+    .dados-contato div + div {
+        width: 468px;
+        padding: 30px 0;
+        border-top: 2px solid var(--bg-cinza)
+    }
+/* Feito por Paulo Gustavo */
+@media screen and (max-width: 796px) {
+
+    .form input, textarea {
+        width: 100%;
+        padding: 10px;
+        border: none;
+        background: var(--bg-cinza);
+    }
+
+    .dados-contato {
+        padding: 0;
+        border-left: none;
+        margin: 62px auto 0 auto;
+        text-align: center;
+    }
+
+        .dados-contato div + div {
+            width: 450px;
+            border-top: 2px solid var(--bg-cinza)
+        }
+}
+
+/* RODAPÉ */
+.footer {
+    background: var(--bg-escuro);
+    padding: 30px;
+    color: white;
+    text-align: center;
+}

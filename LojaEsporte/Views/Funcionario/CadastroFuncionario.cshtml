@@ -1,0 +1,117 @@
+﻿@model LojaEsporte.Models.Funcionario
+
+@{
+    ViewBag.Title = "Cadastro de Funcionario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@Styles.Render("~/Content/fornecedor.css")
+@Styles.Render("~/Content/produto.css")
+@Styles.Render("~/Content/home.css")
+@Styles.Render("~/Content/style.css")
+
+<div class="bg-roxo">
+</div>
+
+<div data-anime="100" class="fadeInDown" style="
+    max-width: 1200px;
+    padding: 45px 30px 25px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+    margin: 0 auto;
+    align-content: center;
+    justify-content: center;">
+    <svg style="align-self:center" width="105" height="77" viewBox="0 0 105 77" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M31.5 38.5C41.6555 38.5 49.875 29.8891 49.875 19.25C49.875 8.61094 41.6555 0 31.5 0C21.3445 0 13.125 8.61094 13.125 19.25C13.125 29.8891 21.3445 38.5 31.5 38.5ZM44.1 44H42.7383C39.3258 45.7188 35.5359 46.75 31.5 46.75C27.4641 46.75 23.6906 45.7188 20.2617 44H18.9C8.46562 44 0 52.8688 0 63.8V68.75C0 73.3047 3.52734 77 7.875 77H55.125C59.4727 77 63 73.3047 63 68.75V63.8C63 52.8688 54.5344 44 44.1 44ZM78.75 38.5C87.4453 38.5 94.5 31.1094 94.5 22C94.5 12.8906 87.4453 5.5 78.75 5.5C70.0547 5.5 63 12.8906 63 22C63 31.1094 70.0547 38.5 78.75 38.5ZM86.625 44H86.0016C83.7211 44.825 81.3094 45.375 78.75 45.375C76.1906 45.375 73.7789 44.825 71.4984 44H70.875C67.5281 44 64.4438 45.0141 61.7367 46.6469C65.7398 51.1672 68.25 57.1656 68.25 63.8V70.4C68.25 70.7781 68.168 71.1391 68.1516 71.5H97.125C101.473 71.5 105 67.8047 105 63.25C105 52.6109 96.7805 44 86.625 44Z" fill="white" /> </svg>
+    <p style="
+    font-size: 48px;
+    font-weight: 600;
+    align-self: center;
+    color: white;
+    line-height: 1;
+    padding-top: 10px;">
+        
+        <span  style="
+        font-size: 24px;
+        font-weight: 400;
+        display: block;
+        ">
+            Cadastrando
+        </span>
+        Funcionário
+    </p>
+</div>
+
+<div data-anime="300" class="fadeInDown secaodois">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <p class="paragrafo-secao">Informe os dados do funcionário abaixo</p>
+
+        <div class="form-horizontal form-cliente-1">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            @*<div class="form-group">
+                    @Html.LabelFor(model => model.ID, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.ID, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.ID, "", new { @class = "text-danger" })
+                    </div>
+                </div>*@
+
+            <div class="form-grupo">
+                @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "form-label" })
+                <div>
+                    @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-editor", @placeholder = "Informe um nome", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-grupo">
+                @Html.LabelFor(model => model.CPF, htmlAttributes: new { @class = "form-label" })
+                <div>
+                    @Html.EditorFor(model => model.CPF, new { htmlAttributes = new { @class = "form-editor", @placeholder = "000.000.000-00", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.CPF, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-grupo">
+                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "form-label" })
+                <div>
+                    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-editor", @placeholder = "Informe um email", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-grupo">
+                @Html.LabelFor(model => model.Senha, htmlAttributes: new { @class = "form-label" })
+                <div>
+                    @Html.EditorFor(model => model.Senha, new { htmlAttributes = new { @class = "form-editor", @placeholder = "Informe uma senha", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.Senha, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-grupo">
+                @Html.LabelFor(model => model.ConfirmaSenha, htmlAttributes: new { @class = "form-label" })
+                <div>
+                    @Html.EditorFor(model => model.ConfirmaSenha, new { htmlAttributes = new { @class = "form-editor", @placeholder = "Repetir senha", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.ConfirmaSenha, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div >
+                <div>
+                    <input type="submit" value="CADASTRAR FUNCIONÁRIO" class="btn btn-primary botao-cadastrar" />
+                </div>
+            </div>
+        </div>
+    }
+    <div class="link-final">
+        <a href="@Url.Action("ListaFuncionario", "Funcionario", new { @class = "link-final" })" style="color: #3886c9;">← Voltar a lista</a>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

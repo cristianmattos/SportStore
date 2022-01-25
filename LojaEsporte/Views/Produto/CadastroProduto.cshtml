@@ -1,0 +1,127 @@
+﻿@model LojaEsporte.Models.Produto
+
+
+
+@{
+    ViewBag.Title = "Cadastro de Produtos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Styles.Render("~/Content/produto.css");
+@Styles.Render("~/Content/home.css");
+@Styles.Render("~/Content/style.css");
+
+<style>
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+    }
+</style>
+
+<div class="bg-roxo">
+</div>
+
+<div data-anime="100" class="fadeInDown" style="
+    max-width: 1200px;
+    padding: 25px 25px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+    margin: 0 auto;
+    align-content: center;
+    justify-content: center;">
+    <svg style="align-self: center;" width="87" height="77" viewBox="0 0 87 77" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M84.5833 43.3125H72.5V57.75L67.6667 54.5467L62.8333 57.75V43.3125H50.75C49.4208 43.3125 48.3333 44.3953 48.3333 45.7188V74.5938C48.3333 75.9172 49.4208 77 50.75 77H84.5833C85.9125 77 87 75.9172 87 74.5938V45.7188C87 44.3953 85.9125 43.3125 84.5833 43.3125ZM26.5833 33.6875H60.4167C61.7458 33.6875 62.8333 32.6047 62.8333 31.2813V2.40625C62.8333 1.08281 61.7458 0 60.4167 0H48.3333V14.4375L43.5 11.2342L38.6667 14.4375V0H26.5833C25.2542 0 24.1667 1.08281 24.1667 2.40625V31.2813C24.1667 32.6047 25.2542 33.6875 26.5833 33.6875ZM36.25 43.3125H24.1667V57.75L19.3333 54.5467L14.5 57.75V43.3125H2.41667C1.0875 43.3125 0 44.3953 0 45.7188V74.5938C0 75.9172 1.0875 77 2.41667 77H36.25C37.5792 77 38.6667 75.9172 38.6667 74.5938V45.7188C38.6667 44.3953 37.5792 43.3125 36.25 43.3125Z" fill="white" /> </svg>
+    <p style="
+    font-size: 48px;
+    font-weight: 600;
+    align-self: center;
+    color: white;
+    line-height: 1;
+    padding-top: 10px;">
+        <span style="
+        font-size: 24px;
+        font-weight: 400;
+        display: block;
+        ">
+            Cadastrando
+        </span>
+        Produto
+    </p>
+</div>
+
+<div data-anime="300" class="fadeInDown secaodois">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <p class="paragrafo-secao">Informe os dados do produto abaixo</p>
+        <div class="form-horizontal form-cliente-1">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.ID)
+
+            <div class="form-grupo">
+                @Html.LabelFor(model => model.Cod_Fornecedor, htmlAttributes: new { @class = "form-label " })
+                <div>
+                    @Html.EditorFor(model => model.Cod_Fornecedor, new { htmlAttributes = new { @class = "form-editor", @id = "idMostrar" } })
+                    @*@Html.ValidationMessageFor(model => model.Cod_Fornecedor, "", new { @class = "text-danger" })*@
+                </div>
+                <div style="margin-top: 8px;">
+                    @Html.ActionLink("Buscar Fornecedor", "BuscarFornecedor", "Fornecedor")
+                </div>
+            </div>
+
+            <div class="form-grupo">
+                @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "form-label" })
+                <div>
+                    @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-editor", @placeholder = "Insira um nome", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-grupo">
+                @Html.LabelFor(model => model.Descriçao, htmlAttributes: new { @class = "form-label" })
+                <div>
+                    @Html.EditorFor(model => model.Descriçao, new { htmlAttributes = new { @class = "form-editor", @placeholder = "Insira uma descrição", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.Descriçao, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-grupo">
+                @Html.LabelFor(model => model.Preço, htmlAttributes: new { @class = "form-label" })
+                <div>
+                    @Html.EditorFor(model => model.Preço, new { htmlAttributes = new { @class = "form-editor", @placeholder = "Insira um preço", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.Preço, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-grupo">
+                @Html.LabelFor(model => model.Unidade, htmlAttributes: new { @class = "form-label" })
+                <div>
+                    @Html.EditorFor(model => model.Unidade, new { htmlAttributes = new { @class = "form-editor", @placeholder = "Informe unidade", @required = "required" } })
+                    @Html.ValidationMessageFor(model => model.Unidade, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div>
+                <div>
+                    <input type="submit" value="CADASTRAR PRODUTO" class="btn btn-primary botao-cadastrar" />
+                </div>
+            </div>
+
+            <div>
+                @Html.ActionLink("← Ir para o Estoque", "ListaProduto")
+            </div>
+        </div>
+    }
+
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#idMostrar").val(@ViewData["cod"]);
+        });
+    </script>
+}

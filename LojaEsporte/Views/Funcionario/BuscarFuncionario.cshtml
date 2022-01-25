@@ -1,0 +1,39 @@
+﻿@model IEnumerable<LojaEsporte.Models.Funcionario>
+
+@{
+    ViewBag.Title = "Lista de Funcionarios";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Funcionarios</h2>
+
+<p>
+    @Html.ActionLink("Novo Fornecedor", "CadastroFuncionario")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+
+        <td>
+            @Html.ActionLink("Selecionar", "CadastroVenda", "Venda", new { id = item.ID }, null)
+        </td>
+    </tr>
+}
+
+</table>

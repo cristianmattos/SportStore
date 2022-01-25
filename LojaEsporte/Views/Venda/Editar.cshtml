@@ -1,0 +1,146 @@
+﻿@model LojaEsporte.Models.Venda
+
+@{
+    ViewBag.Title = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@Styles.Render("~/Content/fornecedor.css")
+@Styles.Render("~/Content/produto.css")
+@Styles.Render("~/Content/home.css")
+@Styles.Render("~/Content/style.css")
+
+<div class="bg-roxo">
+</div>
+
+<div style="
+    max-width: 1200px;
+    padding: 45px 30px 25px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+    margin: 0 auto;
+    align-content: center;
+    justify-content: center;">
+    <svg style="align-self:center" width="105" height="77" viewBox="0 0 105 77" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M31.5 38.5C41.6555 38.5 49.875 29.8891 49.875 19.25C49.875 8.61094 41.6555 0 31.5 0C21.3445 0 13.125 8.61094 13.125 19.25C13.125 29.8891 21.3445 38.5 31.5 38.5ZM44.1 44H42.7383C39.3258 45.7188 35.5359 46.75 31.5 46.75C27.4641 46.75 23.6906 45.7188 20.2617 44H18.9C8.46562 44 0 52.8688 0 63.8V68.75C0 73.3047 3.52734 77 7.875 77H55.125C59.4727 77 63 73.3047 63 68.75V63.8C63 52.8688 54.5344 44 44.1 44ZM78.75 38.5C87.4453 38.5 94.5 31.1094 94.5 22C94.5 12.8906 87.4453 5.5 78.75 5.5C70.0547 5.5 63 12.8906 63 22C63 31.1094 70.0547 38.5 78.75 38.5ZM86.625 44H86.0016C83.7211 44.825 81.3094 45.375 78.75 45.375C76.1906 45.375 73.7789 44.825 71.4984 44H70.875C67.5281 44 64.4438 45.0141 61.7367 46.6469C65.7398 51.1672 68.25 57.1656 68.25 63.8V70.4C68.25 70.7781 68.168 71.1391 68.1516 71.5H97.125C101.473 71.5 105 67.8047 105 63.25C105 52.6109 96.7805 44 86.625 44Z" fill="white" /> </svg>
+    <p style="
+    font-size: 48px;
+    font-weight: 600;
+    align-self: center;
+    color: white;
+    line-height: 1;
+    padding-top: 10px;">
+        <span style="
+        font-size: 24px;
+        font-weight: 400;
+        display: block;
+        ">
+            Vendas
+        </span>
+        Editando dados
+    </p>
+</div>
+<div class="secao">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.ID)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.ID, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.ID, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.ID, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Cod_Pagamento, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Cod_Pagamento, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Cod_Pagamento, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Cod_Funcionario, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Cod_Funcionario, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Cod_Funcionario, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Cod_Produto, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Cod_Produto, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Cod_Produto, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.NomeCliente, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.NomeCliente, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.NomeCliente, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CPF, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.CPF, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.CPF, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Telefone, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Telefone, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Telefone, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.TotalVenda, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.TotalVenda, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.TotalVenda, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.dataVenda, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.dataVenda, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.dataVenda, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Quantidade, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Quantidade, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Quantidade, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Salvar Alterações" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("Voltar a Lista", "ListaVenda")
+    </div>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</div>

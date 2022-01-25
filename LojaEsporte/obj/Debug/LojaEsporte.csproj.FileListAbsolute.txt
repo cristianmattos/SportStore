@@ -1,0 +1,613 @@
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\LojaEsporte.dll.config
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\LojaEsporte.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\LojaEsporte.pdb
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\csc.exe
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\csc.exe.config
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\csc.rsp
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\csi.exe
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\csi.exe.config
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\csi.rsp
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.AppContext.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Console.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\vbc.exe
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\vbc.exe.config
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\vbc.rsp
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\Antlr3.Runtime.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\Newtonsoft.Json.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.Helpers.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.Mvc.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.Optimization.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.Razor.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\WebGrease.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.Helpers.xml
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.Mvc.xml
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.Optimization.xml
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.Razor.xml
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.xml
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\Newtonsoft.Json.xml
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\Antlr3.Runtime.pdb
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csproj.CoreCompileInputs.cache
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csproj.CopyComplete
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.dll
+C:\Users\Ygor\source\repos\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.pdb
+D:\MVC\repos\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csproj.CoreCompileInputs.cache
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\LojaEsporte.dll.config
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\LojaEsporte.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\LojaEsporte.pdb
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\csc.exe
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\csc.exe.config
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\csc.rsp
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\csi.exe
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\csi.exe.config
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\csi.rsp
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.AppContext.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Console.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Compression.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Pipes.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.AccessControl.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Claims.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.ValueTuple.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XPath.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\vbc.exe
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\vbc.exe.config
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\vbc.rsp
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\VBCSCompiler.exe
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\Antlr3.Runtime.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\MySql.Data.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\Newtonsoft.Json.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.Helpers.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.Mvc.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.Optimization.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.Razor.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Deployment.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Razor.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\WebGrease.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\Google.Protobuf.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\Zstandard.Net.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\K4os.Compression.LZ4.Streams.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\BouncyCastle.Crypto.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\Ubiety.Dns.Core.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\Renci.SshNet.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Buffers.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\K4os.Compression.LZ4.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\K4os.Hash.xxHash.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\MySql.Data.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.Helpers.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.Mvc.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.Optimization.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.Razor.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Deployment.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Razor.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\Newtonsoft.Json.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\Antlr3.Runtime.pdb
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Helpers.resources.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Mvc.resources.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Optimization.resources.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Razor.resources.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.resources.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csproj.CopyComplete
+D:\MVC\repos\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.pdb
+D:\MVC\repos\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csprojAssemblyReference.cache
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Net.Http.Formatting.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.Http.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.Http.WebHost.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Net.Http.Formatting.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.Http.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\System.Web.Http.WebHost.xml
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Http.resources.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\BancoADO.dll
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\BancoADO.pdb
+D:\MVC\repos\LojaEsporte\LojaEsporte\bin\BancoADO.dll.config
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\LojaEsporte.dll.config
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\LojaEsporte.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\LojaEsporte.pdb
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\csc.exe
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\csc.exe.config
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\csc.rsp
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\csi.exe
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\csi.exe.config
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\csi.rsp
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.AppContext.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Console.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\vbc.exe
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\vbc.exe.config
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\vbc.rsp
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\Antlr3.Runtime.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\BancoADO.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\MySql.Data.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\Newtonsoft.Json.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Net.Http.Formatting.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.Helpers.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.Http.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.Http.WebHost.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.Mvc.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.Optimization.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.Razor.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\WebGrease.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\Google.Protobuf.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\Zstandard.Net.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\BouncyCastle.Crypto.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\Ubiety.Dns.Core.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\Renci.SshNet.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Buffers.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\K4os.Compression.LZ4.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\K4os.Hash.xxHash.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\BancoADO.pdb
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\BancoADO.dll.config
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\MySql.Data.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Net.Http.Formatting.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.Http.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.Http.WebHost.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.Helpers.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.Mvc.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.Optimization.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.Razor.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\Newtonsoft.Json.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\Antlr3.Runtime.pdb
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csprojAssemblyReference.cache
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csproj.CoreCompileInputs.cache
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csproj.CopyComplete
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.pdb
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\LojaEsporte.dll.config
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\LojaEsporte.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\LojaEsporte.pdb
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\csc.exe
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\csc.exe.config
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\csc.rsp
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\csi.exe
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\csi.exe.config
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\csi.rsp
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.AppContext.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Console.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Compression.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Claims.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.ValueTuple.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\vbc.exe
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\vbc.exe.config
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\vbc.rsp
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\VBCSCompiler.exe
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\Antlr3.Runtime.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\BancoADO.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\Newtonsoft.Json.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Net.Http.Formatting.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.Helpers.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.Http.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.Http.WebHost.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.Mvc.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.Optimization.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.Razor.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Razor.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\WebGrease.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Buffers.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Memory.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Numerics.Vectors.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\BancoADO.pdb
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\BancoADO.dll.config
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Net.Http.Formatting.xml
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.Http.xml
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.Http.WebHost.xml
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.Helpers.xml
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.Mvc.xml
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.Optimization.xml
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.Razor.xml
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.xml
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Razor.xml
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\Newtonsoft.Json.xml
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\Antlr3.Runtime.pdb
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csprojAssemblyReference.cache
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csproj.CoreCompileInputs.cache
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csproj.CopyComplete
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.pdb
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\LojaEsporte.dll.config
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\LojaEsporte.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\LojaEsporte.pdb
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\csc.exe
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\csc.exe.config
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\csc.rsp
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\csi.exe
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\csi.exe.config
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\csi.rsp
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.AppContext.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Console.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Claims.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\vbc.exe
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\vbc.exe.config
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\vbc.rsp
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\Antlr3.Runtime.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\BancoADO.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\MySql.Data.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\Newtonsoft.Json.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Net.Http.Formatting.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.Helpers.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.Http.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.Http.WebHost.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.Mvc.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.Optimization.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.Razor.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\WebGrease.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\Google.Protobuf.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\Zstandard.Net.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\BouncyCastle.Crypto.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\Ubiety.Dns.Core.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\Renci.SshNet.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Buffers.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\K4os.Compression.LZ4.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\K4os.Hash.xxHash.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Memory.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Numerics.Vectors.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\BancoADO.pdb
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\BancoADO.dll.config
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\MySql.Data.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Net.Http.Formatting.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.Http.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.Http.WebHost.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.Helpers.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.Mvc.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.Optimization.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.Razor.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\Newtonsoft.Json.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\Antlr3.Runtime.pdb
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csprojAssemblyReference.cache
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csproj.CopyComplete
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.pdb
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\LojaEsporte.dll.config
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\LojaEsporte.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\LojaEsporte.pdb
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\csc.exe
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\csc.exe.config
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\csc.rsp
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\csi.exe
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\csi.exe.config
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\csi.rsp
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.AppContext.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Console.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Claims.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\vbc.exe
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\vbc.exe.config
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\vbc.rsp
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\Antlr3.Runtime.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\BancoADO.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\MySql.Data.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\Newtonsoft.Json.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Net.Http.Formatting.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.Helpers.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.Http.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.Http.WebHost.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.Mvc.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.Optimization.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.Razor.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\WebGrease.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\Google.Protobuf.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\Zstandard.Net.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\BouncyCastle.Crypto.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\Ubiety.Dns.Core.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\Renci.SshNet.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Buffers.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\K4os.Compression.LZ4.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\K4os.Hash.xxHash.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Memory.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Numerics.Vectors.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\BancoADO.pdb
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\BancoADO.dll.config
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\MySql.Data.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Net.Http.Formatting.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.Http.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.Http.WebHost.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.Helpers.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.Mvc.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.Optimization.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.Razor.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\Newtonsoft.Json.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\Antlr3.Runtime.pdb
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csprojAssemblyReference.cache
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.csproj.CopyComplete
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\LojaEsporte\obj\Debug\LojaEsporte.pdb

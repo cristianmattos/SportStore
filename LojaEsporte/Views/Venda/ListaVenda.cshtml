@@ -1,0 +1,154 @@
+﻿@model IEnumerable<LojaEsporte.Models.Venda>
+
+@{
+    ViewBag.Title = "ListaVenda";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Styles.Render("~/Content/fornecedor.css")
+@Styles.Render("~/Content/produto.css")
+@Styles.Render("~/Content/home.css")
+@Styles.Render("~/Content/style.css")
+
+<div class="bg-roxo">
+</div>
+
+<div data-anime="100" class="fadeInDown" style="
+    max-width: 1200px;
+    padding: 45px 30px 25px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+    margin: 0 auto;
+    align-content: center;
+    justify-content: center;">
+    <svg width="86" height="76" viewBox="0 0 86 76" fill="none" xmlns="http://www.w3.org/2000/svg"> <g clip-path="url(#clip0)"> <path d="M75.3571 47.5H31.5889L32.5661 52.25H72.6424C74.9418 52.25 76.6462 54.3728 76.1366 56.602L75.3129 60.2055C78.1035 61.5523 80.0278 64.3963 80.0278 67.6875C80.0278 72.319 76.2176 76.0659 71.5436 75.9991C67.0909 75.9354 63.4289 72.3429 63.3087 67.9171C63.243 65.4995 64.2172 63.3083 65.8175 61.7499H34.5159C36.0652 63.2589 37.0278 65.3609 37.0278 67.6875C37.0278 72.4097 33.067 76.2124 28.268 75.9908C24.0068 75.7941 20.5413 72.3711 20.3173 68.1359C20.1445 64.8653 21.8755 61.9825 24.5055 60.4786L14.0173 9.5H3.58333C1.60429 9.5 0 7.90504 0 5.9375V3.5625C0 1.59496 1.60429 0 3.58333 0H18.8915C20.5937 0 22.0609 1.19062 22.4021 2.84852L23.7706 9.5H82.4152C84.7146 9.5 86.419 11.6228 85.9094 13.852L78.8512 44.727C78.4805 46.349 77.0302 47.5 75.3571 47.5ZM60.1745 28.5H53.75V19.5938C53.75 18.6101 52.9478 17.8125 51.9583 17.8125H48.375C47.3856 17.8125 46.5833 18.6101 46.5833 19.5938V28.5H40.1589C38.5626 28.5 37.7633 30.4187 38.892 31.5407L48.8998 41.4904C49.5995 42.1859 50.7339 42.1859 51.4337 41.4904L61.4415 31.5407C62.5701 30.4187 61.7707 28.5 60.1745 28.5Z" fill="white" /> </g> <defs> <clipPath id="clip0"> <rect width="86" height="76" fill="white" /> </clipPath> </defs> </svg>
+    <p style="
+    font-size: 48px;
+    font-weight: 600;
+    align-self: center;
+    color: white;
+    line-height: 1;
+    padding-top: 10px;">
+        <span style="
+        font-size: 24px;
+        font-weight: 400;
+        display: block;
+        ">
+            Vendas
+        </span>
+        Histórico de vendas
+    </p>
+</div>
+
+<div data-anime="300" class="fadeInDown secao-consulta">
+    <p class="paragrafo-secao">Consulte os dados das vendas abaixo. Você também pode alterar, ver mais detalhes ou excluir dados.</p>
+    <table class="table">
+        <tr>
+            <th>
+                <h5 style="font-weight:bold;">ID</h5>
+                @*@Html.DisplayNameFor(model => model.ID)*@
+            </th>
+            <th>
+                <h5 style="font-weight:bold;">Código do Pagamento</h5>
+                @*@Html.DisplayNameFor(model => model.Cod_Pagamento)*@
+            </th>
+            <th>
+                <h5 style="font-weight:bold;">Código do Funcionario</h5>
+                @*@Html.DisplayNameFor(model => model.Cod_Funcionario)*@
+            </th>
+            <th>
+                <h5 style="font-weight:bold;">Nome do Cliente</h5>
+                @*@Html.DisplayNameFor(model => model.NomeCliente)*@
+            </th>
+            <th>
+                <h5 style="font-weight:bold;">CPF</h5>
+                @*@Html.DisplayNameFor(model => model.CPF)*@
+            </th>
+            <th>
+                <h5 style="font-weight:bold;">Telefone</h5>
+                @*@Html.DisplayNameFor(model => model.Telefone)*@
+            </th>
+            <th>
+                <h5 style="font-weight:bold;">Data da Venda</h5>
+                @*@Html.DisplayNameFor(model => model.dataVenda)*@
+            </th>
+            <th>
+                <h5 style="font-weight:bold;">Código do Produto</h5>
+                @*@Html.DisplayNameFor(model => model.Cod_Produto)*@
+            </th>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.Cod_Fornecedor)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nome_Produto)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Preco_Produto)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Quantidade)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Total_Produto)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TotalVenda)
+                </th>*@
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cod_Pagamento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cod_Funcionario)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NomeCliente)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CPF)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.dataVenda)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cod_Produto)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.Cod_Fornecedor)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome_Produto)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Preco_Produto)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantidade)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Total_Produto)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TotalVenda)
+                    </td>*@
+                <td>
+                    @Html.ActionLink("Detalhes", "Detalhes", new { ID = item.ID }) |
+                    @Html.ActionLink("Apagar", "Excluir", new { ID = item.ID })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

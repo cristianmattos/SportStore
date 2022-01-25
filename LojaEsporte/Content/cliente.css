@@ -1,0 +1,11 @@
+﻿
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn.active.focus {
+    background: #24bd9b;
+    outline: #43DBBA;
+    border: none;
+}

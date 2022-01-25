@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaEsporte", "LojaEsporte\LojaEsporte.csproj", "{AD28C422-61C7-490D-9510-7046D714C95E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoADO", "BancoADO\BancoADO.csproj", "{658BEB03-57F6-4592-9125-8698C9513C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD28C422-61C7-490D-9510-7046D714C95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD28C422-61C7-490D-9510-7046D714C95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD28C422-61C7-490D-9510-7046D714C95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD28C422-61C7-490D-9510-7046D714C95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658BEB03-57F6-4592-9125-8698C9513C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658BEB03-57F6-4592-9125-8698C9513C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658BEB03-57F6-4592-9125-8698C9513C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658BEB03-57F6-4592-9125-8698C9513C15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F1BCFE-11D7-40CE-A7E0-4969C230BFD2}
+	EndGlobalSection
+EndGlobal

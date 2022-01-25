@@ -1,0 +1,96 @@
+D:\MVC\repos\LojaEsporte\BancoADO\obj\Debug\BancoADO.csprojAssemblyReference.cache
+D:\MVC\repos\LojaEsporte\BancoADO\obj\Debug\BancoADO.csproj.CoreCompileInputs.cache
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\BancoADO.dll
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\BancoADO.pdb
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\MySql.Data.dll
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\Google.Protobuf.dll
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\Zstandard.Net.dll
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\BouncyCastle.Crypto.dll
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\Ubiety.Dns.Core.dll
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\Renci.SshNet.dll
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\System.Buffers.dll
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\K4os.Compression.LZ4.dll
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\K4os.Hash.xxHash.dll
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\MySql.Data.xml
+D:\MVC\repos\LojaEsporte\BancoADO\obj\Debug\BancoADO.csproj.CopyComplete
+D:\MVC\repos\LojaEsporte\BancoADO\obj\Debug\BancoADO.dll
+D:\MVC\repos\LojaEsporte\BancoADO\obj\Debug\BancoADO.pdb
+D:\MVC\repos\LojaEsporte\BancoADO\bin\Debug\BancoADO.dll.config
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\BancoADO.dll.config
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\BancoADO.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\BancoADO.pdb
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\MySql.Data.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\Google.Protobuf.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\Zstandard.Net.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\Renci.SshNet.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\System.Buffers.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\bin\Debug\MySql.Data.xml
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\obj\Debug\BancoADO.csprojAssemblyReference.cache
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\obj\Debug\BancoADO.csproj.CoreCompileInputs.cache
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\obj\Debug\BancoADO.csproj.CopyComplete
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\obj\Debug\BancoADO.dll
+C:\Users\Ygor\Desktop\Nova pasta (3)\LojaEsporte\BancoADO\obj\Debug\BancoADO.pdb
+C:\Users\gustm\Documents\Loja1\LojaEsporte\BancoADO\bin\Debug\BancoADO.dll.config
+C:\Users\gustm\Documents\Loja1\LojaEsporte\BancoADO\bin\Debug\BancoADO.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\BancoADO\bin\Debug\BancoADO.pdb
+C:\Users\gustm\Documents\Loja1\LojaEsporte\BancoADO\bin\Debug\System.Buffers.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\BancoADO\bin\Debug\System.Memory.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\BancoADO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\BancoADO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\BancoADO\obj\Debug\BancoADO.csprojAssemblyReference.cache
+C:\Users\gustm\Documents\Loja1\LojaEsporte\BancoADO\obj\Debug\BancoADO.csproj.CoreCompileInputs.cache
+C:\Users\gustm\Documents\Loja1\LojaEsporte\BancoADO\obj\Debug\BancoADO.csproj.CopyComplete
+C:\Users\gustm\Documents\Loja1\LojaEsporte\BancoADO\obj\Debug\BancoADO.dll
+C:\Users\gustm\Documents\Loja1\LojaEsporte\BancoADO\obj\Debug\BancoADO.pdb
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\BancoADO.dll.config
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\BancoADO.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\BancoADO.pdb
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\MySql.Data.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\Google.Protobuf.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\Zstandard.Net.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\Renci.SshNet.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\System.Buffers.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\System.Memory.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\bin\Debug\MySql.Data.xml
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\obj\Debug\BancoADO.csprojAssemblyReference.cache
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\obj\Debug\BancoADO.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\obj\Debug\BancoADO.csproj.CopyComplete
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\obj\Debug\BancoADO.dll
+C:\Users\Cristian Mattos\Desktop\LojaEsporte\BancoADO\obj\Debug\BancoADO.pdb
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\BancoADO.dll.config
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\BancoADO.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\BancoADO.pdb
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\MySql.Data.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\Google.Protobuf.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\Zstandard.Net.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\Renci.SshNet.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\System.Buffers.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\System.Memory.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\bin\Debug\MySql.Data.xml
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\obj\Debug\BancoADO.csprojAssemblyReference.cache
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\obj\Debug\BancoADO.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\obj\Debug\BancoADO.csproj.CopyComplete
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\obj\Debug\BancoADO.dll
+C:\Users\Cristian Mattos\Downloads\LojaEsporte\BancoADO\obj\Debug\BancoADO.pdb

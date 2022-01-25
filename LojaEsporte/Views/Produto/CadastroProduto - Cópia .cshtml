@@ -1,0 +1,47 @@
+﻿@model LojaEsporte.Models.Produto
+@{
+    ViewBag.Title = "CadastroProduto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Resultado", "Produto", FormMethod.Post))
+{
+    <form>
+
+        <h2>CadastroProduto</h2>
+
+        @Html.ValidationSummary(true)
+
+        <div class="form-row">
+            <div class="form-group">
+                <label for="name">Nome</label>
+                @*<input type="text" name="name" required="required" placeholder="Nome">*@
+                @Html.EditorFor(x => x.Nome, new { htmlAttributes = new { @placeholder = "Nome", @required = "required" } })
+                @Html.ValidationMessageFor(x => x.Nome)
+            </div>
+            <div class="form-group">
+                <label for="Description">Descrição</label>
+                @*<input type="text" name="Description" required="required">*@
+                @Html.EditorFor(x => x.Descricao, new { htmlAttributes = new { @placeholder = "Descrição", @required = "required" } })
+                @Html.ValidationMessageFor(x => x.Descricao)
+            </div>
+
+            <div class="form-group">
+                <label for="Price">Preço</label>
+                @*<input type="number" name="Price" required="required" placeholder="Preço Item">*@
+                @Html.EditorFor(x => x.Preco, new { htmlAttributes = new { @placeholder = "Preço", @required = "required" } })
+                @Html.ValidationMessageFor(x => x.Preco)
+            </div>
+            <div class="form-group">
+                <label for="Unit">Unidade</label>
+                @*<input type="number" name="Unit" required="required">*@
+                @Html.EditorFor(x => x.Unidade, new { htmlAttributes = new { @placeholder = "Unidade", @required = "required" } })
+                @Html.ValidationMessageFor(x => x.Unidade)
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">EFETUAR CADASTRO</button>
+    </form>
+}
+
+@section Scripts {@Scripts.Render("~/bundles/jqueryval") }

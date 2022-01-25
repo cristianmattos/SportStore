@@ -1,0 +1,172 @@
+﻿@model LojaEsporte.Models.Fornecedor
+
+@{
+    ViewBag.Title = "Editar dados de Fornecedores";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@Styles.Render("~/Content/fornecedor.css")
+@Styles.Render("~/Content/home.css")
+@Styles.Render("~/Content/style.css")
+
+<div class="bg-roxo">
+</div>
+
+<div style="
+    max-width: 1200px;
+    padding: 45px 30px 25px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+    margin: 0 auto;
+    align-content: center;
+    justify-content: center;">
+    <svg style="align-self: center;" width="59" height="77" viewBox="0 0 59 77" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M59 16.8437V69.7812C59 73.7681 55.6981 77 51.625 77H7.375C3.30185 77 0 73.7681 0 69.7812V16.8437C0 12.8569 3.30185 9.625 7.375 9.625H19.6667C19.6667 4.31771 24.0778 0 29.5 0C34.9222 0 39.3333 4.31771 39.3333 9.625H51.625C55.6981 9.625 59 12.8569 59 16.8437ZM29.5 6.01562C27.4634 6.01562 25.8125 7.63157 25.8125 9.625C25.8125 11.6184 27.4634 13.2344 29.5 13.2344C31.5366 13.2344 33.1875 11.6184 33.1875 9.625C33.1875 7.63157 31.5366 6.01562 29.5 6.01562ZM44.25 23.1602V20.1523C44.25 19.913 44.1529 19.6835 43.98 19.5143C43.8071 19.3451 43.5726 19.25 43.3281 19.25H15.6719C15.4274 19.25 15.1929 19.3451 15.02 19.5143C14.8471 19.6835 14.75 19.913 14.75 20.1523V23.1602C14.75 23.3995 14.8471 23.629 15.02 23.7982C15.1929 23.9674 15.4274 24.0625 15.6719 24.0625H43.3281C43.5726 24.0625 43.8071 23.9674 43.98 23.7982C44.1529 23.629 44.25 23.3995 44.25 23.1602Z" fill="white" /> </svg>
+    <p style="
+    font-size: 48px;
+    font-weight: 600;
+    align-self: center;
+    color: white;
+    line-height: 1;
+    padding-top: 10px;">
+        <span style="
+        font-size: 24px;
+        font-weight: 400;
+        display: block;
+        ">
+            Fornecedor
+        </span>
+        Editando dados
+    </p>
+</div>
+<div class="secao">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <p class="paragrafo-secao">Edite os dados do fornecedor abaixo.</p>
+        <div class="form-horizontal form-cliente">
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.Cod_Fornecedor)
+            <div>
+                <h2 class="titulo-contato titulo-contato--1">Dados Pessoais</h2>
+                <div class="form-grupo">
+                    @Html.LabelFor(model => model.Cod_Fornecedor, htmlAttributes: new { @class = "form-label" })
+                    <div>
+                        @Html.EditorFor(model => model.Cod_Fornecedor, new { htmlAttributes = new { @class = "form-editor" } })
+                        @Html.ValidationMessageFor(model => model.Cod_Fornecedor, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-grupo">
+                    @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "form-label" })
+                    <div>
+                        @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-editor" } })
+                        @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-grupo">
+                    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "form-label" })
+                    <div>
+                        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-editor" } })
+                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-grupo">
+                    @Html.LabelFor(model => model.CNPJ, htmlAttributes: new { @class = "form-label" })
+                    <div>
+                        @Html.EditorFor(model => model.CNPJ, new { htmlAttributes = new { @class = "form-editor" } })
+                        @Html.ValidationMessageFor(model => model.CNPJ, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-grupo">
+                    @Html.LabelFor(model => model.Telefone, htmlAttributes: new { @class = "form-label" })
+                    <div>
+                        @Html.EditorFor(model => model.Telefone, new { htmlAttributes = new { @class = "form-editor" } })
+                        @Html.ValidationMessageFor(model => model.Telefone, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+            </div>
+            <div>
+                <h2 class="titulo-contato titulo-contato--2">Endereço</h2>
+                <div class="form-grupo">
+                    @Html.LabelFor(model => model.CEP, htmlAttributes: new { @class = "form-label" })
+                    <div>
+                        @Html.EditorFor(model => model.CEP, new { htmlAttributes = new { @class = "form-editor" } })
+                        @Html.ValidationMessageFor(model => model.CEP, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-grupo">
+                    @Html.LabelFor(model => model.Rua, htmlAttributes: new { @class = "form-label" })
+                    <div>
+                        @Html.EditorFor(model => model.Rua, new { htmlAttributes = new { @class = "form-editor" } })
+                        @Html.ValidationMessageFor(model => model.Rua, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-grupo form-flex-fornecedor">
+                    <div>
+                        @Html.LabelFor(model => model.Numero, htmlAttributes: new { @class = "form-label" })
+                        <div>
+                            @Html.EditorFor(model => model.Numero, new { htmlAttributes = new { @class = "form-editor", @id = "numero", @required = "required" } })
+                            <br />
+                            @Html.ValidationMessageFor(model => model.Numero, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-grupo">
+                        @Html.LabelFor(model => model.Complemento, htmlAttributes: new { @class = "form-label" })
+                        <div>
+                            @Html.EditorFor(model => model.Complemento, new { htmlAttributes = new { @class = "form-editor", @id = "complemento", @placeholder = "Casa/Apto" } })
+                            <br />
+                            @Html.ValidationMessageFor(model => model.Complemento, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-grupo">
+                    @Html.LabelFor(model => model.Bairro, htmlAttributes: new { @class = "form-label" })
+                    <div>
+                        @Html.EditorFor(model => model.Bairro, new { htmlAttributes = new { @class = "form-editor" } })
+                        @Html.ValidationMessageFor(model => model.Bairro, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-grupo form-flex-fornecedor">
+                    <div>
+                        @Html.LabelFor(model => model.Cidade, htmlAttributes: new { @class = "form-label" })
+                        <div>
+                            @Html.EditorFor(model => model.Cidade, new { htmlAttributes = new { @class = "form-editor" } })
+                            @Html.ValidationMessageFor(model => model.Cidade, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div>
+                        @Html.LabelFor(model => model.Estado, htmlAttributes: new { @class = "form-label" })
+                        <div>
+                            @Html.EditorFor(model => model.Estado, new { htmlAttributes = new { @class = "form-editor" } })
+                            @Html.ValidationMessageFor(model => model.Estado, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="form-group">
+            <div>
+                <input type="submit" value="SALVAR ALTERAÇÕES" class="btn btn-primary botao-cadastrar" />
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("← Voltar a Lista", "ListaFornecedor")
+    </div>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</div>

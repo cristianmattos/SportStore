@@ -1,0 +1,311 @@
+﻿@model LojaEsporte.Models.Venda
+
+@{
+    ViewBag.Title = "Pedido";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@Styles.Render("~/Content/fornecedor.css")
+@Styles.Render("~/Content/produto.css")
+@Styles.Render("~/Content/home.css")
+@Styles.Render("~/Content/style.css")
+
+<div class="bg-roxo">
+</div>
+
+<div data-anime="100" class="fadeInDown" style="
+    max-width: 1200px;
+    padding: 45px 30px 25px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+    margin: 0 auto;
+    align-content: center;
+    justify-content: center;">
+    <svg width="86" height="76" viewBox="0 0 86 76" fill="none" xmlns="http://www.w3.org/2000/svg"> <g clip-path="url(#clip0)"> <path d="M75.3571 47.5H31.5889L32.5661 52.25H72.6424C74.9418 52.25 76.6462 54.3728 76.1366 56.602L75.3129 60.2055C78.1035 61.5523 80.0278 64.3963 80.0278 67.6875C80.0278 72.319 76.2176 76.0659 71.5436 75.9991C67.0909 75.9354 63.4289 72.3429 63.3087 67.9171C63.243 65.4995 64.2172 63.3083 65.8175 61.7499H34.5159C36.0652 63.2589 37.0278 65.3609 37.0278 67.6875C37.0278 72.4097 33.067 76.2124 28.268 75.9908C24.0068 75.7941 20.5413 72.3711 20.3173 68.1359C20.1445 64.8653 21.8755 61.9825 24.5055 60.4786L14.0173 9.5H3.58333C1.60429 9.5 0 7.90504 0 5.9375V3.5625C0 1.59496 1.60429 0 3.58333 0H18.8915C20.5937 0 22.0609 1.19062 22.4021 2.84852L23.7706 9.5H82.4152C84.7146 9.5 86.419 11.6228 85.9094 13.852L78.8512 44.727C78.4805 46.349 77.0302 47.5 75.3571 47.5ZM60.1745 28.5H53.75V19.5938C53.75 18.6101 52.9478 17.8125 51.9583 17.8125H48.375C47.3856 17.8125 46.5833 18.6101 46.5833 19.5938V28.5H40.1589C38.5626 28.5 37.7633 30.4187 38.892 31.5407L48.8998 41.4904C49.5995 42.1859 50.7339 42.1859 51.4337 41.4904L61.4415 31.5407C62.5701 30.4187 61.7707 28.5 60.1745 28.5Z" fill="white" /> </g> <defs> <clipPath id="clip0"> <rect width="86" height="76" fill="white" /> </clipPath> </defs> </svg>
+    <p style="
+    font-size: 48px;
+    font-weight: 600;
+    align-self: center;
+    color: white;
+    line-height: 1;
+    padding-top: 10px;">
+        <span style="
+        font-size: 24px;
+        font-weight: 400;
+        display: block;
+        ">
+            Realizando
+        </span>
+        Venda
+    </p>
+</div>
+
+<style>
+    /* GRID BOTÕES */
+    .botoes {
+        display: flex;
+        justify-content: space-around;
+        margin: 64px auto 40px;
+    }
+
+    /* BOTÃO GENÉRICO */
+    .bot {       
+        background: gray;
+        border-radius: 3px;
+        padding: 10px 25px;
+        text-decoration: none;
+        cursor: pointer;        
+    }
+
+    .bot:visited {
+        color: white;
+    }
+
+    /* BOTÃO ADICIONAR */
+    .bot-adicionar {
+        background: #23AC8E;
+    }
+
+    .bot-adicionar:hover {
+        background-color: #3CD4B3;
+    }
+
+    /* BOTÃO CALCULAR */
+    .bot-calcular {
+        padding: 10px 50px;
+        color: white;
+        background-color: #2372AC;
+    }
+
+    .bot-calcular:hover {
+        background-color: #3A99DD;
+    }
+
+    /* BOTÃO EXCLUIR */
+    .bot-limpar {
+        padding: 10px 50px;
+        color: white;
+        background-color: #D37B2A;
+    }
+
+    .bot-limpar:hover {
+        background-color: #E88B1F;
+    }
+</style>
+<div data-anime="300" class="fadeInDown secao">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <p class="paragrafo-secao">Realize uma venda prenchendo os dados abaixo.</p>
+        <table class="table">
+            <tr>
+                <th>
+                    <h4>Código do produto</h4>
+                </th>
+                <th>
+                    <h4>Código do Fornecedor</h4>
+                </th>
+                <th>
+                    <h4>Nome do produto</h4>
+                </th>
+                <th>
+                    <h4>Preço Unitario</h4>
+                </th>
+
+                <th>
+                    <h4>Quantidade</h4>
+                </th>
+                <th>
+                    <h4>Preço</h4>
+                </th>
+                <th>
+
+            </tr>
+
+            <tr>
+                <td>
+                    @Html.EditorFor(model => model.Cod_Produto, new { htmlAttributes = new { @class = "form-control", @id = "idProduto" } })
+                </td>
+                <td>
+                    @Html.EditorFor(model => model.Cod_Fornecedor, new { htmlAttributes = new { @class = "form-control", @id = "idFornecedor" } })
+                </td>
+                <td>
+                    @Html.EditorFor(model => model.Nome_Produto, new { htmlAttributes = new { @class = "form-control", @id = "idNome" } })
+                </td>
+                <td>
+                    @Html.EditorFor(model => model.Preco_Produto, new { htmlAttributes = new { @class = "form-control", @id = "idPreço" } })
+                </td>
+                <td>
+                    @Html.EditorFor(model => model.Quantidade, new { htmlAttributes = new { @class = "form-control", @id = "quantidade" } })
+                </td>
+                <td>
+                    <INPUT TYPE="hidden" id="idPrecoTemp">
+                    @Html.EditorFor(model => model.Total_Produto, new { htmlAttributes = new { @class = "form-control", @id = "idPrecoItem" } })
+                </td>
+                <td>
+                </td>
+            </tr>
+        </table>
+
+        <div class="botoes">
+            @Html.ActionLink("+ Adicionar Produto", "BuscarProduto", "Produto", new { area = "" }, new { @class = "bot bot-adicionar" })
+            <a class="bot bot-calcular" id="teste">Calcular</a>
+            <a class="bot bot-limpar" id="ExcluirProduto">Limpar</a>
+        </div>
+
+        <hr />
+        <div class="form-cliente">
+            <div style="max-width: 400px;">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-grupo form-flex-fornecedor">
+                    <div>
+                        <p style="margin-bottom: 5px;" class="form-label">Código do pagamento</p>
+                        <div>
+                            @Html.EditorFor(model => model.Cod_Pagamento, new { htmlAttributes = new { @class = "form-editor", @placeholder = "Forma de pagamento" } })
+                            @Html.ValidationMessageFor(model => model.Cod_Pagamento, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div>
+                        <p style="margin-bottom: 5px;" class="form-label">Código do funcionário</p>
+                        <div>
+                            @Html.EditorFor(model => model.Cod_Funcionario, new { htmlAttributes = new { @class = "form-editor", @id = "idFunc" } })
+                            @Html.ValidationMessageFor(model => model.Cod_Funcionario, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-grupo">
+
+                    @*<div>
+                        @Html.ActionLink("Buscar Funcionario", "BuscarFuncionario", "Funcionario")
+                    </div>*@
+                </div>
+
+                <div class="form-grupo">
+                    <p style="margin-bottom: 5px;" class="form-label">Nome do cliente</p>
+                    <div>
+                        @Html.EditorFor(model => model.NomeCliente, new { htmlAttributes = new { @class = "form-editor" } })
+                        @Html.ValidationMessageFor(model => model.NomeCliente, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-grupo">
+                    <p style="margin-bottom: 5px;" class="form-label">CPF</p>
+                    <div>
+                        @Html.EditorFor(model => model.CPF, new { htmlAttributes = new { @class = "form-editor" } })
+                        @Html.ValidationMessageFor(model => model.CPF, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="form-grupo">
+                    <p style="margin-bottom: 5px;" class="form-label">Telefone</p>
+                    <div>
+                        @Html.EditorFor(model => model.Telefone, new { htmlAttributes = new { @class = "form-editor" } })
+                        @Html.ValidationMessageFor(model => model.Telefone, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-grupo">
+                    <p style="margin-bottom: 5px;" class="form-label">Data da venda</p>
+                    <div>
+                        @Html.EditorFor(model => model.dataVenda, new { htmlAttributes = new { @class = "form-editor" } })
+                        @Html.ValidationMessageFor(model => model.dataVenda, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+
+                <div class="form-grupo">
+                    <p style="margin-bottom: 5px;" class="form-label">Total da venda</p>
+                    <div>
+                        @Html.EditorFor(model => model.TotalVenda, new { htmlAttributes = new { @class = "form-editor", @id = "idTotal" } })
+                        @Html.ValidationMessageFor(model => model.TotalVenda, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div>
+            <div>
+                <center>
+                    <input type="submit" value="Finalizar Pedido" class="btn btn-primary botao-cadastrar" />
+                </center>
+
+            </div>
+        </div>
+    </div>
+    }
+
+    <div>
+        @Html.ActionLink("← Voltar a Lista", "ListaVenda")
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script type="text/javascript">
+        $(document).ready(function () {
+            @*$("#idFunc").val(@ViewData["idFunc"]);*@
+            $("#idProduto").val(@ViewData["idProduto"]);
+            $("#idFornecedor").val(@ViewData["idFornecedor"]);
+
+        });
+
+        $(document).ready(function () {
+
+            $("#idNome").val('@ViewData["idNome"]');
+
+
+            $("#idPreço").val('@ViewData["idPreço"]');
+        });
+
+
+        @*$(document).ready(function () {
+            $("#teste").click(function () {
+                $("#idPrecoItem").val(
+                    eval(('@ViewData["idPreço"]')* $("#quantidade").val())
+                )
+            })
+        });*@
+
+        $(document).ready(function () {
+            $("#teste").click(function () {
+                var num1 = document.getElementById("idPreço").value;
+                var num1P = num1.replace(",", ".");
+
+                var num2 = document.getElementById("quantidade").value;
+
+                var total = num1P * num2
+
+                $("#idPrecoTemp").val(total)
+
+                var num3 = document.getElementById("idPrecoTemp").value;
+                var total2 = num3.replace(".", ",");
+
+                $("#idPrecoItem").val(total2)
+                $("#idTotal").val(total2)
+            })
+        });
+
+        $(document).ready(function () {
+            $("#ExcluirProduto").click(function () {
+                var zero = 0;
+
+                $("#idProduto").val(zero);
+                $("#idFornecedor").val(zero);
+                $("#idNome").val(zero);
+                $("#idPreço").val(zero);
+                $("#quantidade").val(zero);
+                $("#idPrecoItem").val(zero);
+            })
+        });
+
+            function FormPag() {
+                alert("1-Crédito\n2-Débito\n3-Dinheiro");
+            }
+    </script>
+}

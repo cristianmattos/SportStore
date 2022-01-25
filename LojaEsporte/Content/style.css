@@ -1,0 +1,249 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+:root {
+    --cor-base: #23AC8E;
+    --cor-texto: #373737;
+    --cor-roxo: #4D26CC;
+    --cor-laranja: #D37B2A;
+    --cor-vermelho: #D13838;
+    --cor-vermelho-click: #A61818;
+}
+
+body {
+    background: #F2F2F2;
+}
+
+.conteudo {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nnn {
+    max-width: 1200px;
+    padding: 0 30px;
+    display: grid;
+    grid-template-columns: 200px 200px;
+    margin: 0 auto;
+    background: green;
+    align-content: center;
+    justify-content: center;
+}
+
+.secao {
+    margin: 0 auto;
+    padding: 32px 45px;
+    background: white;
+    max-width: 1000px;
+}
+
+.secao-1 {
+    margin: 0 auto;
+    padding: 32px 45px;
+    background: white;
+    max-width: 1250px;
+}
+
+.centralizado {
+    margin: 0 auto;
+}
+
+.espacamento dt{
+    margin-bottom: 5px;
+}
+
+.espacamento dt {
+    display: block;
+}
+
+
+
+.secao-consulta {
+    margin: 0 auto;
+    padding: 32px 45px;
+    background: white;
+    max-width: 1100px;
+}
+
+.form-cliente {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    margin: 32px auto;
+    grid-gap: 64px;
+}
+
+.form-cliente-1 {
+    display: grid;
+}
+
+.form-label {
+    display: block;
+    font-weight: 500;
+    color: var(--cor-texto);
+}
+
+.form-editor {
+    background: #EBEBEB;
+    max-width: 1000px;
+    width: 100%;
+    height: 40px;
+    border: 2px solid #EBEBEB;
+    border-radius: 3px;
+    padding: 0 10px;
+}
+
+    .form-editor:active, .form-editor:focus {
+        outline-color: var(--cor-base);
+    }
+
+.form-grupo {
+    margin-bottom: 32px;
+}
+
+.form-flex {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 30px;
+    margin-bottom: 0
+}
+
+.titulo-secao {
+    font-size: 48px;
+    margin-bottom: 25px;
+    font-weight: 500;
+    color: var(--cor-texto)
+}
+
+.paragrafo-secao {
+    font-size: 16px;
+    color: var(--cor-base);
+}
+
+    .paragrafo-secao:after {
+        content: '';
+        display: block;
+        width: 60px;
+        height: 2px;
+        background: var(--cor-base);
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+
+.paragrafo-aviso {
+    margin-top: 32px;
+    color: #979797;
+}
+
+.titulo-contato {
+    color: var(--cor-base);
+    font-weight: 400;
+    margin: 12px 0 24px;
+    font-size: 24px;
+}
+
+    .titulo-contato::before {
+        font-size: 14px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        text-align: center;
+        content: "1";
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        border: 2px solid var(--cor-base);
+        border-radius: 24px;
+        margin-right: 10px;
+        position: relative;
+        top: -4px;
+    }
+
+.titulo-contato--1::before {
+    content: "1";
+}
+
+.titulo-contato--2::before {
+    content: "2";
+}
+
+.botao-cadastrar {
+    background: var(--cor-base);
+    width: 230px;
+    padding: 14px 0px;
+    color: white;
+    outline: #43DBBA;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 32px;
+}
+
+    .botao-cadastrar:hover {
+        background: #43DBBA;
+        outline: #43DBBA;
+    }
+
+.botao-excluir {
+    background: var(--cor-vermelho);
+    width: 150px;
+    padding: 10px 20px;
+    color: white;
+    outline: #43DBBA;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 32px;
+}
+
+    .botao-excluir:hover {
+        color: white;
+        background: var(--cor-vermelho-click);
+        outline: #43DBBA;
+    }
+
+    .botao-excluir:active {
+        color: white;
+        background: var(--cor-vermelho-click);
+    }
+
+.botao-voltar {
+    /* background: var(--cor-vermelho); */
+    width: 150px;
+    padding: 11px 20px;
+    color: var(--cor-texto);
+    outline: #43DBBA;
+    border: 2px solid #4444;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 32px;
+    border-radius: 3px;
+}
+
+    .botao-voltar:hover {
+        color: #2E2E2E;
+        border-color: #2E2E2E;
+        outline: #43DBBA;
+    }
+
+.botao-alterar {
+    background: #E29829;
+    width: 150px;
+    padding: 12px 40px;
+    color: whitesmoke;
+    outline: #43DBBA;
+    /* border: 2px solid #4444; */
+    font-size: 16px;
+    font-weight: 500;
+    margin: 32px;
+    border-radius: 3px;
+    letter-spacing: 2px;
+}
+
+    .botao-alterar:hover {
+        border-color: #C2640C;
+        outline: #43DBBA;
+    }
+
